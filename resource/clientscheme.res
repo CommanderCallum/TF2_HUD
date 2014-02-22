@@ -4406,17 +4406,17 @@ Scheme
 		}
 		"7"
 		{
-			"font" "resource/fonts/Opificio"
+			"font" "resource/fonts/Opificio.ttf"
 			"name" "Opificio"
 		}
 		"8"
 		{
-			"font" "resource/fonts/Opificio_Bold"
+			"font" "resource/fonts/Opificio_Bold.ttf"
 			"name" "Opificio Bold"
 		}	
 		"9"
 		{
-			"font" "resource/fonts/Opificio_rounded"
+			"font" "resource/fonts/Opificio_rounded.ttf"
 			"name" "Opificio Rounded"
 		}			
 	}
