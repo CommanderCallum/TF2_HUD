@@ -2498,6 +2498,1118 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		//Bold
+		
+		OpificioBold12
+		{
+			"1"
+			{
+				"name"		"Opificio Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		OpificioBold16
+		{
+			"1"
+			{
+				"name"		"Opificio Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+			
+		OpificioBold20
+		{
+			"1"
+			{
+				"name"		"Opificio Bold"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+			
+		OpificioBold24
+		{
+			"1"
+			{
+				"name"		"Opificio Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+			
+		OpificioBold28
+		{
+			"1"
+			{
+				"name"		"Opificio Bold"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+			
+		OpificioBold32
+		{
+			"1"
+			{
+				"name"		"Opificio Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+			
+		OpificioBold36
+		{
+			"1"
+			{
+				"name"		"Opificio Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+			
+		OpificioBold40
+		{
+			"1"
+			{
+				"name"		"Opificio Bold"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+			
+		OpificioBold44
+		{
+			"1"
+			{
+				"name"		"Opificio Bold"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		
+		OpificioBold48
+		{
+			"1"
+			{
+				"name"		"Opificio Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		//Quicksand Fonts
+		
+		QuicksandBoldNormal12
+		{
+			"1"
+			{
+				"name"		"QuicksandBold-Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldNormal16
+		{
+			"1"
+			{
+				"name"		"QuicksandBold-Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldNormal20
+		{
+			"1"
+			{
+				"name"		"QuicksandBold-Regular"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldNormal24
+		{
+			"1"
+			{
+				"name"		"QuicksandBold-Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldNormal28
+		{
+			"1"
+			{
+				"name"		"QuicksandBold-Regular"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldNormal32
+		{
+			"1"
+			{
+				"name"		"QuicksandBold-Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldNormal36
+		{
+			"1"
+			{
+				"name"		"QuicksandBold-Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldNormal40
+		{
+			"1"
+			{
+				"name"		"QuicksandBold-Regular"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldNormal44
+		{
+			"1"
+			{
+				"name"		"QuicksandBold-Regular"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		QuicksandBoldNormal48
+		{
+			"1"
+			{
+				"name"		"QuicksandBold-Regular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+			
+		//Quicksand Bold Oblique
+
+			QuicksandBoldOblique12
+		{
+			"1"
+			{
+				"name"		"QuicksandBoldOblique-Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldOblique16
+		{
+			"1"
+			{
+				"name"		"QuicksandBoldOblique-Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldOblique20
+		{
+			"1"
+			{
+				"name"		"QuicksandBoldOblique-Regular"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldOblique24
+		{
+			"1"
+			{
+				"name"		"QuicksandBoldOblique-Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldOblique28
+		{
+			"1"
+			{
+				"name"		"QuicksandBoldOblique-Regular"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldOblique32
+		{
+			"1"
+			{
+				"name"		"QuicksandBoldOblique-Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldOblique36
+		{
+			"1"
+			{
+				"name"		"QuicksandBoldOblique-Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBoldOblique40
+		{
+			"1"
+			{
+				"name"		"QuicksandBoldOblique-Regular"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}	
+		QuicksandBoldOblique44
+		{
+			"1"
+			{
+				"name"		"QuicksandBoldOblique-Regular"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		
+		QuicksandBoldOblique48
+		{
+			"1"
+			{
+				"name"		"QuicksandBoldOblique-Regular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		//Quicksand Book -- Normal font
+		
+		QuicksandBookNormal12
+		{
+			"1"
+			{
+				"name"		"QuicksandBook-Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookNormal16
+		{
+			"1"
+			{
+				"name"		"QuicksandBook-Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookNormal20
+		{
+			"1"
+			{
+				"name"		"QuicksandBook-Regular"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookNormal24
+		{
+			"1"
+			{
+				"name"		"QuicksandBook-Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookNormal28
+		{
+			"1"
+			{
+				"name"		"QuicksandBook-Regular"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookNormal32
+		{
+			"1"
+			{
+				"name"		"QuicksandBook-Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookNormal36
+		{
+			"1"
+			{
+				"name"		"QuicksandBook-Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookNormal40
+		{
+			"1"
+			{
+				"name"		"QuicksandBook-Regular"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookNormal44
+		{
+			"1"
+			{
+				"name"		"QuicksandBook-Regular"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		QuicksandBookNormal48
+		{
+			"1"
+			{
+				"name"		"QuicksandBook-Regular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		//Quicksand Book Oblique
+		
+		QuicksandBookOblique12
+		{
+			"1"
+			{
+				"name"		"QuicksandBookOblique-Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookOblique16
+		{
+			"1"
+			{
+				"name"		"QuicksandBookOblique-Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookOblique20
+		{
+			"1"
+			{
+				"name"		"QuicksandBookOblique-Regular"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookOblique24
+		{
+			"1"
+			{
+				"name"		"QuicksandBookOblique-Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookOblique28
+		{
+			"1"
+			{
+				"name"		"QuicksandBookOblique-Regular"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookOblique32
+		{
+			"1"
+			{
+				"name"		"QuicksandBookOblique-Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookOblique36
+		{
+			"1"
+			{
+				"name"		"QuicksandBookOblique-Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookOblique40
+		{
+			"1"
+			{
+				"name"		"QuicksandBookOblique-Regular"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandBookOblique44
+		{
+			"1"
+			{
+				"name"		"QuicksandBookOblique-Regular"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		QuicksandBookOblique48
+		{
+			"1"
+			{
+				"name"		"QuicksandBookOblique-Regular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		//Quicksand Light
+		
+		QuicksandLightNormal12
+		{
+			"1"
+			{
+				"name"		"QuicksandLight-Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightNormal16
+		{
+			"1"
+			{
+				"name"		"QuicksandLight-Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightNormal20
+		{
+			"1"
+			{
+				"name"		"QuicksandLight-Regular"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightNormal24
+		{
+			"1"
+			{
+				"name"		"QuicksandLight-Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightNormal28
+		{
+			"1"
+			{
+				"name"		"QuicksandLight-Regular"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightNormal32
+		{
+			"1"
+			{
+				"name"		"QuicksandLight-Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightNormal36
+		{
+			"1"
+			{
+				"name"		"QuicksandLight-Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightNormal40
+		{
+			"1"
+			{
+				"name"		"QuicksandLight-Regular"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightNormal44
+		{
+			"1"
+			{
+				"name"		"QuicksandLight-Regular"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		QuicksandLightNormal48
+		{
+			"1"
+			{
+				"name"		"QuicksandLight-Regular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		//Quicksand Light Oblique
+		
+		QuicksandLightOblique12
+		{
+			"1"
+			{
+				"name"		"QuicksandLightOblique-Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightOblique16
+		{
+			"1"
+			{
+				"name"		"QuicksandLightOblique-Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightOblique20
+		{
+			"1"
+			{
+				"name"		"QuicksandLightOblique-Regular"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightOblique24
+		{
+			"1"
+			{
+				"name"		"QuicksandLightOblique-Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightOblique28
+		{
+			"1"
+			{
+				"name"		"QuicksandLightOblique-Regular"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightOblique32
+		{
+			"1"
+			{
+				"name"		"QuicksandLightOblique-Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightOblique36
+		{
+			"1"
+			{
+				"name"		"QuicksandLightOblique-Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightOblique40
+		{
+			"1"
+			{
+				"name"		"QuicksandLightOblique-Regular"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+			
+		QuicksandLightOblique44
+		{
+			"1"
+			{
+				"name"		"QuicksandLightOblique-Regular"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		QuicksandLightOblique48
+		{
+			"1"
+			{
+				"name"		"QuicksandLightOblique-Regular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		//Coolvetica
+		
+		Coolvetica12
+		{
+			"1"
+			{
+				"name"		"CoolveticaRg-Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		Coolvetica16
+		{
+			"1"
+			{
+				"name"		"CoolveticaRg-Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+			
+		Coolvetica20
+		{
+			"1"
+			{
+				"name"		"CoolveticaRg-Regular"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+			
+		Coolvetica24
+		{
+			"1"
+			{
+				"name"		"CoolveticaRg-Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+			
+		Coolvetica28
+		{
+			"1"
+			{
+				"name"		"CoolveticaRg-Regular"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+			
+		Coolvetica32
+		{
+			"1"
+			{
+				"name"		"CoolveticaRg-Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+			
+		Coolvetica36
+		{
+			"1"
+			{
+				"name"		"CoolveticaRg-Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+			
+		Coolvetica40
+		{
+			"1"
+			{
+				"name"		"CoolveticaRg-Regular"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+			
+		Coolvetica44
+		{
+			"1"
+			{
+				"name"		"CoolveticaRg-Regular"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		Coolvetica48
+		{
+			"1"
+			{
+				"name"		"CoolveticaRg-Regular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		//Roboto
+		
+		Roboto12
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		Roboto16
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+			
+		Roboto20
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+			
+		Roboto24
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+			
+		Roboto28
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+			
+		Roboto32
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+			
+		Roboto36
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+			
+		Roboto40
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+			
+		Roboto44
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		Roboto48
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+	
+		//Comfortaa Light
+
+		ComfortaaLight12
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		ComfortaaLight16
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+			
+		ComfortaaLight20
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+			
+		ComfortaaLight24
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+			
+		ComfortaaLight28
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+			
+		ComfortaaLight32
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+			
+		ComfortaaLight36
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+			
+		ComfortaaLight40
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+			
+		ComfortaaLight44
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		ComfortaaLight48
+		{
+			"1"
+			{
+				"name"		"Comfortaa Light"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+			
+		//Comfortaa
+
+		Comfortaa12
+		{
+			"1"
+			{
+				"name"		"Comfortaa"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+			
+		Comfortaa16
+		{
+			"1"
+			{
+				"name"		"Comfortaa"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+			
+		Comfortaa20
+		{
+			"1"
+			{
+				"name"		"Comfortaa"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+			
+		Comfortaa24
+		{
+			"1"
+			{
+				"name"		"Comfortaa"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+			
+		Comfortaa28
+		{
+			"1"
+			{
+				"name"		"Comfortaa"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+			
+		Comfortaa32
+		{
+			"1"
+			{
+				"name"		"Comfortaa"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+			
+		Comfortaa36
+		{
+			"1"
+			{
+				"name"		"Comfortaa"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+			
+		Comfortaa40
+		{
+			"1"
+			{
+				"name"		"Comfortaa"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+			
+		Comfortaa44
+		{
+			"1"
+			{
+				"name"		"Comfortaa"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		Comfortaa48
+		{
+			"1"
+			{
+				"name"		"Comfortaa"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
 	}
 	
 	//
@@ -4418,6 +5530,56 @@ Scheme
 		{
 			"font" "resource/fonts/Opificio_rounded.ttf"
 			"name" "Opificio Rounded"
+		}		
+		"10"
+		{
+			"font" "resource/fonts/Quicksand_Bold.otf"
+			"name" "QuicksandBold-Regular"
+		}		
+		"11"
+		{
+			"font" "resource/fonts/Quicksand_Bold_Oblique.otf"
+			"name" "QuicksandBoldOblique-Regular"
+		}				
+		"12"
+		{
+			"font" "resource/fonts/Quicksand_Book.otf"
+			"name" "QuicksandBook-Regular"
+		}		
+		"13"
+		{
+			"font" "resource/fonts/Quicksand_Book_Oblique.otf"
+			"name" "QuicksandBookOblique-Regular"
+		}		
+		"14"
+		{
+			"font" "resource/fonts/Quicksand_Light.otf"
+			"name" "QuicksandLight-Regular"
+		}		
+		"15"
+		{
+			"font" "resource/fonts/Quicksand_Light_Oblique.otf"
+			"name" "QuicksandLightOblique-Regular"
+		}	
+		"16"
+		{
+			"font" "resource/fonts/coolvetica.otf"
+			"name" "CoolveticaRg-Regular"
+		}	
+		"17"
+		{
+			"font" "resource/fonts/Roboto-Light.ttf"
+			"name" "Roboto Light"
+		}	
+		"18"
+		{
+			"font" "resource/fonts/Comfortaa-Light.ttf"
+			"name" "Comfortaa Light"
 		}			
+		"19"
+		{
+			"font" "resource/fonts/Comfortaa-Regular.ttf"
+			"name" "Comfortaa"
+		}					
 	}
 }
