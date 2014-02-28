@@ -1121,7 +1121,7 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"xpos"					"c-90"
-		"ypos"					"-70"
+		"ypos"					"-50"
 		"ypos_lodef"				"75"
 		"wide"					"180"
 		"tall"					"65"

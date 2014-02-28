@@ -126,8 +126,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"HudFontGiantBold"
-		"fgcolor"		"TanLight"
+		"font"			"Comfortaa48"
+		"fgcolor"		"0 255 255 255"
 		"xpos"			"0"
 		"ypos"			"2"
 		"zpos"			"5"
@@ -146,8 +146,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"HudFontGiantBold"
-		"fgcolor"		"Black"
+		"font"			"Comfortaa48"
+		"fgcolor"		"0 0 0 255"
 		"xpos"			"1"
 		"xpos_hidef"	"2"
 		"xpos_lodef"	"2"

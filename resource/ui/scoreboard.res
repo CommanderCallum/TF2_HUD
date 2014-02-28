@@ -303,16 +303,17 @@
 		"font"			"QuicksandBookNormal12"
 		"labelText"		"%server%"
 		"textAlignment"		"west"
-		"xpos"			"c-60"
+		"xpos"			"c-180"
 		"xpos_hidef"	"31"
-		"ypos"			"c130"
+		"ypos"			"c280"
+		"zpos"			"6"
 		"ypos_lodef"	"62"
-		"wide"			"300"
+		"wide"			"350"
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"	[$WIN32]
-		"enabled"		"1"
+		"visible"		"0"	[$WIN32]
+		"enabled"		"0"
 		
 		if_mvm
 		{
@@ -328,7 +329,7 @@
 		"textAlignment"		"east"
 		"xpos"			"c-215"
 		"xpos_hidef"	"31"
-		"ypos"			"c160"
+		"ypos"			"c-180"
 		"ypos_lodef"	"62"
 		"wide"			"300"
 		"tall"			"20"
@@ -429,10 +430,9 @@
 		"font"			"QuicksandBookNormal12"
 		"labelText"		"%spectators%"
 		"textAlignment"		"west"
-		"xpos"			"115"
+		"xpos"			"c270"
 		"xpos_hidef"	"135"
-		"ypos"			"357"	[$WIN32]
-		"ypos"			"277"	[$X360]
+		"ypos"			"c280"	[$WIN32]
 		"zpos"			"4"
 		"wide"			"424"
 		"tall"			"20"
@@ -453,10 +453,9 @@
 		"font"			"QuicksandBookNormal12"
 		"labelText"		"%waitingtoplay%"
 		"textAlignment"		"west"
-		"xpos"			"115"
+		"xpos"			"c270"
 		"xpos_hidef"	"135"
-		"ypos"			"348"	[$WIN32]
-		"ypos"			"277"	[$X360]
+		"ypos"			"c280"	[$WIN32]
 		"zpos"			"4"
 		"wide"			"424"
 		"tall"			"20"
@@ -500,14 +499,14 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"ClassImage"
-		"xpos"			"c-60"
+		"xpos"			"c-40"
 		"xpos_lodef"	"12"
-		"ypos"			"c210"	[$WIN32]
-		"zpos"			"3"
-		"wide"			"92"
-		"tall"			"92"
-		"visible"		"1"
-		"enabled"		"1"
+		"ypos"			"c246"	[$WIN32]
+		"zpos"			"0"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/class_scoutred"
 		"scaleImage"		"1"	
 		
@@ -523,7 +522,7 @@
 		"font"			"QuicksandBookNormal20"
 		"labelText"		"%playername%"
 		"textAlignment"		"west"
-		"xpos"			"c-40"
+		"xpos"			"c-20"
 		"xpos_lodef"	"105"
 		"ypos"			"c175"	[$WIN32]
 		"zpos"			"3"
@@ -531,8 +530,8 @@
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		
 		if_mvm
 		{
@@ -572,7 +571,7 @@
 		"font"		"QuicksandBookNormal20"
 		"labelText"		"%playerscore%"
 		"textAlignment"	"east"
-		"xpos"			"c-110"
+		"xpos"			"c-90"
 		"xpos_lodef"	"399"
 		"xpos_hidef"	"439"
 		"ypos"			"c190"	[$WIN32]
@@ -717,7 +716,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"ScoreboardMedium"
+				"font"			"QuicksandBookNormal12"
 			}
 		}
 
@@ -796,7 +795,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"ScoreboardMedium"
+				"font"			"QuicksandBookNormal12"
 			}
 		}
 	}
@@ -805,11 +804,11 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"LocalPlayerStatsPanel"
-		"xpos"			"50"
-		"ypos"			"60"
+		"xpos"			"c-100"
+		"ypos"			"c150"
 		"zpos"			"3"
-		"wide"			"600"
-		"tall"			"1000"
+		"wide"			"6000"
+		"tall"			"1500"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -824,28 +823,29 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"KillsLabel"
-			"font"			"QuicksandBookNormal12"
+			"font"			"QuicksandBookNormal16"
 			"labelText"		"#TF_ScoreBoard_KillsLabel"
 			"textAlignment"		"east"
-			"xpos"			"80"
-			"ypos"			"0"	[$WIN32]
-			"zpos"			"3"
+			"xpos"			"-54"
+			"ypos"			"130"	[$WIN32]
+			"zpos"			"7"
 			"wide"			"95"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			"fgcolor"		"0 255 0 255"
 		}						
 		"DeathsLabel"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DeathsLabel"
-			"font"			"QuicksandBookNormal12"
+			"font"			"QuicksandBookNormal16"
 			"labelText"		"#TF_ScoreBoard_DeathsLabel"
 			"textAlignment"		"east"
-			"xpos"			"80"
-			"ypos"			"10"	[$WIN32]
+			"xpos"			"93"
+			"ypos"			"130"	[$WIN32]
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
@@ -853,16 +853,17 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			"fgcolor"		"255 0 0 255"
 		}						
 		"AssistsLabel"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"AssistsLabel"
-			"font"			"QuicksandBookNormal12"
+			"font"			"QuicksandBookNormal16"
 			"labelText"		"#TF_ScoreBoard_AssistsLabel"
 			"textAlignment"		"east"
-			"xpos"			"80"
-			"ypos"			"20"	[$WIN32]
+			"xpos"			"20"
+			"ypos"			"130"	[$WIN32]
 			"zpos"			"3"
 			"wide"			"95"
 			"tall"			"20"
@@ -870,6 +871,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			"fgcolor"		"0 255 255 255"
 		}
 		"DestructionLabel"
 		{
@@ -885,18 +887,18 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}												
 		"Kills"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Kills"
-			"font"			"QuicksandBookNormal12"
+			"font"			"QuicksandBookNormal16"
 			"labelText"		"%kills%"
 			"textAlignment"		"west"
-			"xpos"			"180"
-			"ypos"			"0"	[$WIN32]
+			"xpos"			"45"
+			"ypos"			"130"	[$WIN32]
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
@@ -904,16 +906,17 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			"fgcolor"		"0 255 0 255"
 		}						
 		"Deaths"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Deaths"
-			"font"			"QuicksandBookNormal12"
+			"font"			"QuicksandBookNormal16"
 			"labelText"		"%deaths%"
 			"textAlignment"		"west"
-			"xpos"			"180"
-			"ypos"			"10"	[$WIN32]
+			"xpos"			"192"
+			"ypos"			"130"	[$WIN32]
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
@@ -921,17 +924,18 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			"fgcolor"		"255 0 0 255"
 		}	
 		"MapName"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"mapname"
-			"font"			"QuicksandBookNormal16"
+			"font"			"QuicksandBookNormal12"
 			"labelText"		"%mapname%"
 			"textAlignment"		"east"
-			"xpos"			"c-210"
+			"xpos"			"-10"
 			"xpos_lodef"		"105"
-			"ypos"			"325"
+			"ypos"			"-2"
 			"zpos"			"3"
 			"wide"			"145"
 			"tall"			"20"
@@ -948,9 +952,9 @@
 			"font"			"QuicksandBookNormal16"
 			"labelText"		"%gametype%"
 			"textAlignment"		"east"
-			"xpos"			"c-90"
+			"xpos"			"c-180"
 			"xpos_lodef"	"105"
-			"ypos"			"325"
+			"ypos"			"310"
 			"zpos"			"3"
 			"wide"			"145"
 			"tall"			"20"
@@ -964,11 +968,11 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Assists"
-			"font"			"QuicksandBookNormal12"
+			"font"			"QuicksandBookNormal16"
 			"labelText"		"%assists%"
 			"textAlignment"		"west"
-			"xpos"			"180"
-			"ypos"			"20"	[$WIN32]
+			"xpos"			"119"
+			"ypos"			"130"	[$WIN32]
 			"zpos"			"3"
 			"wide"			"35"
 			"tall"			"20"
@@ -976,6 +980,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			"fgcolor"		"0 255 255 255"
 		}						
 		"Destruction"
 		{
@@ -991,8 +996,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"CapturesLabel"
 		{
@@ -1008,8 +1013,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"DefensesLabel"
 		{
@@ -1025,8 +1030,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"DominationLabel"
 		{
@@ -1042,8 +1047,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"RevengeLabel"
 		{
@@ -1059,8 +1064,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"Captures"
 		{
@@ -1076,8 +1081,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"Defenses"
 		{
@@ -1093,8 +1098,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"Domination"
 		{
@@ -1110,8 +1115,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"Revenge"
 		{
@@ -1127,8 +1132,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"HealingLabel"
 		{
@@ -1144,8 +1149,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"InvulnLabel"
 		{
@@ -1161,8 +1166,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"TeleportsLabel"
 		{
@@ -1178,8 +1183,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"HeadshotsLabel"
 		{
@@ -1195,8 +1200,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"Healing"
 		{
@@ -1212,8 +1217,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"Invuln"
 		{
@@ -1229,8 +1234,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"Teleports"
 		{
@@ -1246,8 +1251,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"Headshots"
 		{
@@ -1263,8 +1268,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}						
 		"BackstabsLabel"
 		{
@@ -1279,8 +1284,8 @@
 			"wide"			"110"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}
 		"Backstabs"
 		{
@@ -1296,8 +1301,8 @@
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}		
 		"BonusLabel"
 		{
@@ -1313,8 +1318,8 @@
 			"wide"			"110"
 			"autoResize"		"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}
 		"Bonus"
 		{
@@ -1330,8 +1335,8 @@
 			"tall"			"20"
 			"autoResize"		"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}
 	}
 
@@ -1435,7 +1440,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"GamerCardLabel"
-			"font"			"ScoreboardMedium"
+			"font"			"QuicksandBookNormal12"
 			"xpos"			"170"
 			"xpos_lodef"	"177"
 			"ypos"			"2"

@@ -63,7 +63,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"76"
-		"ypos"			"0"	[$WIN32]
+		"ypos"			"3"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"100"
@@ -78,8 +78,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueBG"
-		"xpos"			"77"
-		"ypos"			"2"	[$WIN32]
+		"xpos"			"78"
+		"ypos"			"3"	[$WIN32]
 		"zpos"			"4"
 		"wide"			"100"
 		"tall"			"100"

@@ -2805,6 +2805,16 @@ Scheme
 		
 		//Quicksand Book -- Normal font
 		
+				QuicksandBookNormal8
+		{
+			"1"
+			{
+				"name"		"QuicksandBook-Regular"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
 		QuicksandBookNormal12
 		{
 			"1"
@@ -2815,6 +2825,16 @@ Scheme
 			}
 		}
 			
+		QuicksandBookNormal14
+		{
+			"1"
+			{
+				"name"		"QuicksandBook-Regular"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
 		QuicksandBookNormal16
 		{
 			"1"
@@ -2824,7 +2844,17 @@ Scheme
 				"antialias" "1"
 			}
 		}
-			
+		
+		QuicksandBookNormal18
+		{
+			"1"
+			{
+				"name"		"QuicksandBook-Regular"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}		
+		
 		QuicksandBookNormal20
 		{
 			"1"
